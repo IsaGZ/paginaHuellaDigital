@@ -1,0 +1,11 @@
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromModels\bin\Debug\net8.0\TeracromModels.deps.json
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromModels\bin\Debug\net8.0\TeracromModels.dll
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromModels\bin\Debug\net8.0\TeracromModels.pdb
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromModels\obj\Debug\net8.0\TeracromModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromModels\obj\Debug\net8.0\TeracromModels.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromModels\obj\Debug\net8.0\TeracromModels.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromModels\obj\Debug\net8.0\TeracromModels.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromModels\obj\Debug\net8.0\TeracromModels.dll
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromModels\obj\Debug\net8.0\refint\TeracromModels.dll
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromModels\obj\Debug\net8.0\TeracromModels.pdb
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromModels\obj\Debug\net8.0\ref\TeracromModels.dll

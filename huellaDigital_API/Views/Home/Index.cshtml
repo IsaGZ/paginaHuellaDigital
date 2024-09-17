@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Principal";
+}
+<div class="container center">
+    <div class="message-box">
+        <textarea id="txtMessage" placeholder="Mensaje aquí..."></textarea>
+    </div>
+    <div class="image-box">
+        <img src="..\Content\Huella-digital.jpg" alt="Imagen">
+    </div>
+    <div class="button-box">
+        <button onclick="cerrar()">Cerrar</button>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $.ajax({
+            url: '@Url.Action("gethuella", "home")', // 'url' debe estar en minúsculas
+            dataType: 'json',
+            contentType: 'application/json',
+            success: function (data) {  // success se utiliza para manejar la respuesta exitosa
+                setTimeout(function () {
+                    if (data) {
+                        console.log(data);  // Aquí procesas la data recibida
+                    }
+                }, 1000);  // Establece un tiempo de espera de 1 segundo
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                AjaxError(jqXHR, textStatus); // Corrige el error tipográfico en 'textStatus'
+            }
+        })
+    });
+
+    function cerrar() {
+        alert('Cerrar botón clickeado');
+    }
+</script>

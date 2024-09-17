@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "huellaDigital_API", "huellaDigital_API\huellaDigital_API.csproj", "{FFEE238C-779B-4F95-9896-B0F5D8A06256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeracromModels", "TeracromModels\TeracromModels.csproj", "{58638213-3E94-467C-B6B1-27AB2DC1E54C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeracromControllers", "TeracromControllers\TeracromControllers.csproj", "{30ED76B3-EA2E-438E-8CDC-276AF0A0F5B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFEE238C-779B-4F95-9896-B0F5D8A06256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEE238C-779B-4F95-9896-B0F5D8A06256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEE238C-779B-4F95-9896-B0F5D8A06256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEE238C-779B-4F95-9896-B0F5D8A06256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58638213-3E94-467C-B6B1-27AB2DC1E54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58638213-3E94-467C-B6B1-27AB2DC1E54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58638213-3E94-467C-B6B1-27AB2DC1E54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58638213-3E94-467C-B6B1-27AB2DC1E54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30ED76B3-EA2E-438E-8CDC-276AF0A0F5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30ED76B3-EA2E-438E-8CDC-276AF0A0F5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30ED76B3-EA2E-438E-8CDC-276AF0A0F5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30ED76B3-EA2E-438E-8CDC-276AF0A0F5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF62C32-CFF9-4B68-8F29-591313A76518}
+	EndGlobalSection
+EndGlobal

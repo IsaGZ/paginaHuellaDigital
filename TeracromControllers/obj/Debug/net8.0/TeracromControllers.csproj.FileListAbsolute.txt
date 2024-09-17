@@ -1,0 +1,17 @@
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\bin\Debug\net8.0\TeracromControllers.deps.json
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\bin\Debug\net8.0\TeracromControllers.dll
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\bin\Debug\net8.0\TeracromControllers.pdb
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\bin\Debug\net8.0\DPUruNet.dll
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\bin\Debug\net8.0\TeracromModels.dll
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\bin\Debug\net8.0\TeracromModels.pdb
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\bin\Debug\net8.0\DPUruNet.xml
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\obj\Debug\net8.0\TeracromControllers.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\obj\Debug\net8.0\TeracromControllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\obj\Debug\net8.0\TeracromControllers.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\obj\Debug\net8.0\TeracromControllers.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\obj\Debug\net8.0\TeracromControllers.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\obj\Debug\net8.0\Teracrom.08314AEA.Up2Date
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\obj\Debug\net8.0\TeracromControllers.dll
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\obj\Debug\net8.0\refint\TeracromControllers.dll
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\obj\Debug\net8.0\TeracromControllers.pdb
+C:\Users\HUAWEI\source\repos\huellaDigital_API\TeracromControllers\obj\Debug\net8.0\ref\TeracromControllers.dll

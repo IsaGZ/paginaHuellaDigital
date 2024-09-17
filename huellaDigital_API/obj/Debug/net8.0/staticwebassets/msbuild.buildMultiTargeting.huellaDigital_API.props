@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\huellaDigital_API.props" />
+</Project>

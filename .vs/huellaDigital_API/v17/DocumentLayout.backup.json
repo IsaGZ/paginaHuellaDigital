@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEE238C-779B-4F95-9896-B0F5D8A06256}|huellaDigital_API\\huellaDigital_API.csproj|c:\\users\\huawei\\source\\repos\\huelladigital_api\\huelladigital_api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFEE238C-779B-4F95-9896-B0F5D8A06256}|huellaDigital_API\\huellaDigital_API.csproj|solutionrelative:huelladigital_api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEE238C-779B-4F95-9896-B0F5D8A06256}|huellaDigital_API\\huellaDigital_API.csproj|c:\\users\\huawei\\source\\repos\\huelladigital_api\\huelladigital_api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFEE238C-779B-4F95-9896-B0F5D8A06256}|huellaDigital_API\\huellaDigital_API.csproj|solutionrelative:huelladigital_api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ED76B3-EA2E-438E-8CDC-276AF0A0F5B1}|TeracromControllers\\TeracromControllers.csproj|c:\\users\\huawei\\source\\repos\\huelladigital_api\\teracromcontrollers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ED76B3-EA2E-438E-8CDC-276AF0A0F5B1}|TeracromControllers\\TeracromControllers.csproj|solutionrelative:teracromcontrollers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEE238C-779B-4F95-9896-B0F5D8A06256}|huellaDigital_API\\huellaDigital_API.csproj|c:\\users\\huawei\\source\\repos\\huelladigital_api\\huelladigital_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEE238C-779B-4F95-9896-B0F5D8A06256}|huellaDigital_API\\huellaDigital_API.csproj|solutionrelative:huelladigital_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58638213-3E94-467C-B6B1-27AB2DC1E54C}|TeracromModels\\TeracromModels.csproj|c:\\users\\huawei\\source\\repos\\huelladigital_api\\teracrommodels\\respuestajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58638213-3E94-467C-B6B1-27AB2DC1E54C}|TeracromModels\\TeracromModels.csproj|solutionrelative:teracrommodels\\respuestajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFEE238C-779B-4F95-9896-B0F5D8A06256}|huellaDigital_API\\huellaDigital_API.csproj|c:\\users\\huawei\\source\\repos\\huelladigital_api\\huelladigital_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFEE238C-779B-4F95-9896-B0F5D8A06256}|huellaDigital_API\\huellaDigital_API.csproj|solutionrelative:huelladigital_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\huellaDigital_API\\Program.cs",
+              "RelativeDocumentMoniker": "huellaDigital_API\\Program.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\huellaDigital_API\\Program.cs",
+              "RelativeToolTip": "huellaDigital_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:10:21.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\huellaDigital_API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "huellaDigital_API\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\huellaDigital_API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "huellaDigital_API\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:26:08.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\huellaDigital_API\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "huellaDigital_API\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\huellaDigital_API\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "huellaDigital_API\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:11:40.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\huellaDigital_API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "huellaDigital_API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\huellaDigital_API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "huellaDigital_API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:04:40.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogInController.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\TeracromControllers\\LogInController.cs",
+              "RelativeDocumentMoniker": "TeracromControllers\\LogInController.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\TeracromControllers\\LogInController.cs",
+              "RelativeToolTip": "TeracromControllers\\LogInController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:00:45.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RespuestaJSON.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\TeracromModels\\RespuestaJSON.cs",
+              "RelativeDocumentMoniker": "TeracromModels\\RespuestaJSON.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\huellaDigital_API\\TeracromModels\\RespuestaJSON.cs",
+              "RelativeToolTip": "TeracromModels\\RespuestaJSON.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:56:39.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
